@@ -15,10 +15,10 @@ Usage :-
 ./todo report # Statistics
 </i>
 </pre>
-
+## Sample Screenshot 📸📸📸
 <img src="Dhanaraj_fellow._output.PNG">
 
 
 
-# Enjoy !!! 🤩🤩🤩🤩
+# Ping me for any suggestions
 # to view more of my project head on to https://github.com/dhanarajappu456
