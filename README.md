@@ -16,7 +16,7 @@ Usage :-
 </i>
 </pre>
 ## Sample Screenshot 📸📸📸
-<img src="Dhanaraj_fellow._output.PNG">
+<img src="Capture1.PNG">
 
 
 
