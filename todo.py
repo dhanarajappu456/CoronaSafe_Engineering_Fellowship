@@ -95,7 +95,7 @@ if __name__=='__main__':
 
 '''
 This code is by Dhanaraj S
-Rajiv Gandhi Institute Of technology,Kottayam
+Rajiv Gandhi Institute Of Technology,Kottayam
 for more checkout my github
 https://github.com/dhanarajappu456
 '''
